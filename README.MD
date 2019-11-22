@@ -5,6 +5,10 @@ In this lesson we cover HTML and CSS topics such as:
 - display properties
 - flex box
 
+## Lecture Slides
+
+https://slides.com/mattbodily/deck-24
+
 ## Position
 
 The `position` property is used to specify the position of an element on the screen.
