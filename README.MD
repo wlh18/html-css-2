@@ -173,8 +173,8 @@ The values go `h-offset`, `v-offset`, `blur`, `spread`, `color`.
 ## Extensions
 * https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en - Eye Dropper: Useful tool for picking out colors from a web page.
 
-# HTML/CSS 1 Mini Project
-https://github.com/DevMountain/HTML-CSS-Practice-Problems
+# HTML/CSS 2 Mini Project
+Lecture Code
 
-# HTML/CSS 1 Afternoon Project
-https://github.com/DevMountain/html-layout
+# HTML/CSS 2 Afternoon Project
+Clone the website given to you by your instructor
