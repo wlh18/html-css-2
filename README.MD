@@ -5,14 +5,16 @@
 1. [HTML/CSS 2 Mini Project](#HTMLCSS-2-Mini-Project)
 1. [HTML/CSS 2 Afternoon Project](#HTMLCSS-2-Afternoon-Project)
 
-In this lesson we cover HTML and CSS topics such as:
-- position properties
-- display properties
-- flex box
-
 # Lecture Slides
 
 https://slides.com/matias_perez/html-css-two#/
+
+# Student Learning Objectives
+
+* Student can implement the position properties.
+* Student can implement the display properties.
+* Students can use the inspector to inspect elements.
+* Students can use flexbox.
 
 # HTML/CSS 2 Lecture Notes
 
