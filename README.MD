@@ -137,7 +137,7 @@ The values go `h-offset`, `v-offset`, `blur`, `spread`, `color`.
 # Additional Resources
 
 ## Lecture Specific
-* [Position Property] (https://www.w3schools.com/css/css_positioning.asp)
+* [Position Property](https://www.w3schools.com/css/css_positioning.asp)
 * [CSS Tricks Flex-Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [MDN Overflow Property](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 
