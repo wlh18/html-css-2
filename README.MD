@@ -10,7 +10,7 @@ In this lesson we cover HTML and CSS topics such as:
 - display properties
 - flex box
 
-## Lecture Slides
+# Lecture Slides
 
 https://slides.com/matias_perez/html-css-two#/
 
