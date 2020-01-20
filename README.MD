@@ -7,7 +7,7 @@ In this lesson we cover HTML and CSS topics such as:
 
 ## Lecture Slides
 
-https://slides.com/mattbodily/deck-24
+https://slides.com/matias_perez/html-css-two#/
 
 ## Position
 
