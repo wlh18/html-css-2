@@ -11,10 +11,12 @@ https://slides.com/matias_perez/html-css-two#/
 
 # Student Learning Objectives
 
-* Student can implement the position properties.
-* Student can implement the display properties.
-* Students can use the inspector to inspect elements.
-* Students can use flexbox.
+* Student understands and can implement the position properties
+* Student can implement the display properties (block, inline, inline-block)
+* Student can use the inspector to inspect elements
+* Student can use the overflow property
+* Student can use the box-shadow property
+* Students can use flexbox
 
 # HTML/CSS 2 Lecture Notes
 
