@@ -26,15 +26,15 @@ The `position` property is used to specify the position of an element on the scr
 
 There are five main values we can give this property:
 
-`static` - this is the default value for an element, and it tells the element to render in order with the document flow.
+* `static` - this is the default value for an element, and it tells the element to render in order with the document flow.
 
-`relative` - this will tell the element to render relative to its normal position in the document flow.
+* `relative` - this will tell the element to render relative to its normal position in the document flow.
 
-`absolute` - this will position an element relative with the nearest positioned ancestor. If there is not an ancestor, it will use the document body
+* `absolute` - this will position an element relative with the nearest positioned ancestor. If there is not an ancestor, it will use the document body
 
-`fixed` - this will position the element relative to the view port. This means that the element will always be displayed to our screen.
+* `fixed` - this will position the element relative to the view port. This means that the element will always be displayed to our screen.
 
-`sticky` - this will position an element based on the users scroll position. It toggles between fixed and relative. It will be relative until it hits a scroll position threshold then become fixed. 
+* `sticky` - this will position an element based on the users scroll position. It toggles between fixed and relative. It will be relative until it hits a scroll position threshold then become fixed. 
 
 ## Display
 
@@ -42,15 +42,15 @@ The `display` property is what is used to specify the display behavior of the el
 
 The values we can give the display preoperty are:
 
-`block` - A block-level element always starts on a new line and takes up the full width available.
+* `block` - A block-level element always starts on a new line and takes up the full width available.
 
-`inline` - An inline element does not start on a new line and only takes up as much width as necessary. This will not allow you to modify the height and width.
+* `inline` - An inline element does not start on a new line and only takes up as much width as necessary. This will not allow you to modify the height and width.
 
-`inline-block` - Works just like inline, but we can modify the height and width.
+* `inline-block` - Works just like inline, but we can modify the height and width.
 
-`flex` - This will declare the element to be a flex container and use flex box tools for child elements.
+* `flex` - This will declare the element to be a flex container and use flex box tools for child elements.
 
-`none` - This is used to hide or show an element without actually deleting them.
+* `none` - This is used to hide or show an element without actually deleting them.
 
 ![Display Values](images/displays.png)
 
@@ -112,9 +112,9 @@ Flex Properties:
 `overflow` is the property we can use to determine what happens to elements that flow over the height or width of an element.
 
 Values:
-    * visible - this is the default overflow property and will still display overflowed elements
-    * hidden - this will hide all of the elements that overflow
-    * scroll - this will make the container element scroll to see the overflowed elements
+* `visible` - this is the default overflow property and will still display overflowed elements
+* `hidden` - this will hide all of the elements that overflow
+* `scroll` - this will make the container element scroll to see the overflowed elements
 
 ## Z-index
 
@@ -136,7 +136,7 @@ The values go `h-offset`, `v-offset`, `blur`, `spread`, `color`.
 
 # Additional Resources
 
-# Games for Flexbox
+## Games for Flexbox
 * https://flexboxfroggy.com/
 * http://www.flexboxdefense.com/
 
@@ -177,8 +177,8 @@ The values go `h-offset`, `v-offset`, `blur`, `spread`, `color`.
 ## Extensions
 * https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en - Eye Dropper: Useful tool for picking out colors from a web page.
 
-# HTML/CSS 2 Mini Project
+# HTML/CSS 2 - Mini Project
 Lecture Code
 
-# HTML/CSS 2 Afternoon Project
+# HTML/CSS 2 - Afternoon Project
 Clone the website given to you by your instructor
