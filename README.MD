@@ -7,7 +7,7 @@
 
 # Lecture Slides
 
-https://slides.com/matias_perez/html-css-two#/
+https://slides.com/awestenskow/html-css-2#/
 
 # Student Learning Objectives
 
